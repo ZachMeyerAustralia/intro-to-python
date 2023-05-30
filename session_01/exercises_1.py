@@ -11,7 +11,7 @@
 
 ## Section A
 # 1. Write code that prints ‘Hello world’.
-
+print('Hello World!')
 
 
 # 2. Print the numbers 1 to 5 on a single line.
