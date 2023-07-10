@@ -4,6 +4,11 @@
 # All of these questions will use a set of pre-made files with data in. The files are in the text_files directory.
 # In order to access the text files from this file, make sure you get into the text_files directory when using read/write.
 # Ex: f = open("text_files/austen.txt", "r") OR f = open("text_files/register.txt", "w")
+from pandas import DataFrame
+
+f = open("text_files/austen.txt", "r")
+
+df = DataFrame(f)
 
 
 ## Section A
@@ -11,7 +16,9 @@
 
 
 
+
 # 2. Read the file 'austen.txt' and print the amount of lines in the file.
+
 
 
 
