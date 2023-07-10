@@ -279,6 +279,11 @@ print(name[-1]) # Always the last element
 
 ---
 
+# Coding Time
+## Section A
+
+---
+
 # Input
 
 ---

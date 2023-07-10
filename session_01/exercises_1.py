@@ -5,8 +5,8 @@
 
 # Commenting out shortcut:
 # Select the lines you want to comment and press:
-#     - Windows: ```Ctrl + / ```
-#     - Mac: ```Command + /```
+#     - Windows: Ctrl + / 
+#     - Mac: Command + /
 
 
 ## Section A

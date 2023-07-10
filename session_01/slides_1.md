@@ -118,8 +118,6 @@ clear  # Clears the terminal screen
 
 - UP/DOWN Arrows - Scroll backward and forwards through previous commands you’ve typed in the current session. ​
 
-- F3 - Repeat the previous command​.
-
 - CTRL + C -  Abort the current line you’re typing or a command that is currently executing​.
 
 

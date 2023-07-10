@@ -9,7 +9,7 @@ Once done, send your project (the GitHub link of your repo) to UK-DLKPMGPYTHONLE
 ## Project requirements
 
 The project should:
-1. Be hosted on [GitHub](https://github.com/).
+1. Be hosted on [GitHub](https://github.com/) (all your work must be pushed to GitHub).
 2. Contain at least one variable.
 3. Contain at least one conditional (`if/else`) statement.
 4. Contain at least a function (`my_cool_func()`).
